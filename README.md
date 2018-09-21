@@ -1,2 +1,4 @@
 # hello-world
-Just a Repository
+
+Engineering and Mathematics Undergraduate, minoring in Computer Science
+I love tennis!
